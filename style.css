@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 1%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    font-size: larger;
+}
+
+.container {
+    text-align: center;
+}
+
+.text, .click {
+    padding: 1%;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+    /* margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto; */
+    margin: 1% auto 0;
+}
+
+.text{
+    width: 70%;
+}
